@@ -40,7 +40,7 @@ Imprimindo o número 5
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/desafio-controle-fluxo.git
+   git clone https://github.com/rafafdx/desafio-controle-fluxo.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
@@ -76,7 +76,7 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modifi
 
 ---
 
-\*\*Desenvolvido por \*\***rafafdx** 🚀
+Feito com 💻 por rafafdx 🚀
 
 
 
